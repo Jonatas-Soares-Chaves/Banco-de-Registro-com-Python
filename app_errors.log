@@ -1,0 +1,9 @@
+2025-10-27 09:44:18,803 - ERROR - Erro de unicidade ao inserir registro: UNIQUE constraint failed: tickets.name
+2025-10-27 09:46:45,010 - ERROR - Erro de unicidade ao inserir registro: UNIQUE constraint failed: tickets.name
+2025-10-27 09:47:20,026 - ERROR - Erro de unicidade ao inserir registro: UNIQUE constraint failed: tickets.name
+2025-10-27 09:47:31,386 - ERROR - Erro de unicidade ao inserir registro: UNIQUE constraint failed: tickets.name
+2025-10-27 09:47:40,106 - ERROR - Erro de unicidade ao inserir registro: UNIQUE constraint failed: tickets.name
+2025-10-27 09:47:58,698 - ERROR - Erro de unicidade ao inserir registro: UNIQUE constraint failed: tickets.name
+2025-10-27 12:18:03,049 - ERROR - Erro de unicidade ao inserir registro: UNIQUE constraint failed: tickets.name
+2025-10-28 14:43:31,253 - ERROR - Erro de unicidade ao inserir registro: UNIQUE constraint failed: tickets.name
+2025-10-28 14:44:55,797 - ERROR - Erro de unicidade ao inserir registro: UNIQUE constraint failed: tickets.name
